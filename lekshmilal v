@@ -1,0 +1,13 @@
+#include <stdio.h>
+using namespace std;
+void printMiddleCharacter(string str)
+{
+int len=str.size();
+int middile =len/2;
+count<< str [middle];
+}
+int man ()
+string str "WELCOME";
+printMiddleCharacter(str);
+return 0;
+}
